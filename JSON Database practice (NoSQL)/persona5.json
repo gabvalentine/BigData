@@ -1,0 +1,65 @@
+{
+  "identificador": "119058438",
+  "viajes": [
+    {
+      "codigo_postal_origen": "50603",
+      "codigo_postal_destino": "90704",
+      "kilometros": "85.2",
+      "precio_kilometro": "19170"
+    },
+    {
+      "codigo_postal_origen": "90704",
+      "codigo_postal_destino": "70401",
+      "kilometros": "92.6",
+      "precio_kilometro": "20835"
+    },
+    {
+      "codigo_postal_origen": "70401",
+      "codigo_postal_destino": "60603",
+      "kilometros": "107.4",
+      "precio_kilometro": "24165"
+    },
+    {
+      "codigo_postal_origen": "60603",
+      "codigo_postal_destino": "50603",
+      "kilometros": "72.1",
+      "precio_kilometro": "16222.5"
+    },
+    {
+      "codigo_postal_origen": "50603",
+      "codigo_postal_destino": "90704",
+      "kilometros": "100.7",
+      "precio_kilometro": "22657.5"
+    },
+    {
+      "codigo_postal_origen": "90704",
+      "codigo_postal_destino": "70401",
+      "kilometros": "82.9",
+      "precio_kilometro": "18652.5"
+    },
+    {
+      "codigo_postal_origen": "70401",
+      "codigo_postal_destino": "60603",
+      "kilometros": "95.4",
+      "precio_kilometro": "21465"
+    },
+    {
+      "codigo_postal_origen": "60603",
+      "codigo_postal_destino": "50603",
+      "kilometros": "66.7",
+      "precio_kilometro": "15022.5"
+    },
+    {
+      "codigo_postal_origen": "50603",
+      "codigo_postal_destino": "90704",
+      "kilometros": "90.2",
+      "precio_kilometro": "20345"
+    },
+    {
+      "codigo_postal_origen": "90704",
+      "codigo_postal_destino": "70401",
+      "kilometros": "98.5",
+      "precio_kilometro": "22162.5"
+    }
+  ]
+}
