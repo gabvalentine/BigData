@@ -1,0 +1,65 @@
+{
+  "identificador": "116453087",
+  "viajes": [
+    {
+      "codigo_postal_origen": "70201",
+      "codigo_postal_destino": "90901",
+      "kilometros": "48.2",
+      "precio_kilometro": "10845"
+    },
+    {
+      "codigo_postal_origen": "90901",
+      "codigo_postal_destino": "80301",
+      "kilometros": "55.6",
+      "precio_kilometro": "12510"
+    },
+    {
+      "codigo_postal_origen": "80301",
+      "codigo_postal_destino": "60601",
+      "kilometros": "72.4",
+      "precio_kilometro": "16305"
+    },
+    {
+      "codigo_postal_origen": "60601",
+      "codigo_postal_destino": "70201",
+      "kilometros": "35.1",
+      "precio_kilometro": "7897.5"
+    },
+    {
+      "codigo_postal_origen": "70201",
+      "codigo_postal_destino": "90901",
+      "kilometros": "63.7",
+      "precio_kilometro": "14332.5"
+    },
+    {
+      "codigo_postal_origen": "90901",
+      "codigo_postal_destino": "80301",
+      "kilometros": "45.9",
+      "precio_kilometro": "10327.5"
+    },
+    {
+      "codigo_postal_origen": "80301",
+      "codigo_postal_destino": "60601",
+      "kilometros": "68.4",
+      "precio_kilometro": "15390"
+    },
+    {
+      "codigo_postal_origen": "60601",
+      "codigo_postal_destino": "70201",
+      "kilometros": "30.7",
+      "precio_kilometro": "6915.75"
+    },
+    {
+      "codigo_postal_origen": "70201",
+      "codigo_postal_destino": "90901",
+      "kilometros": "55.2",
+      "precio_kilometro": "12420"
+    },
+    {
+      "codigo_postal_origen": "90901",
+      "codigo_postal_destino": "80301",
+      "kilometros": "61.5",
+      "precio_kilometro": "13837.5"
+    }
+  ]
+}
